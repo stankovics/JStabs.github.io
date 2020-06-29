@@ -15,5 +15,4 @@ Tabs project - switch from one tab to another.
 
 # Live
 
-Check it out [live](https://stankovics.github.io/
-JStabs.github.io)
+Check it out [Live](https://stankovics.github.io/JStabs.github.io/)
